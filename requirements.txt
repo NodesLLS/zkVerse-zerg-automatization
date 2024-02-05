@@ -1,0 +1,5 @@
+undetected-playwright-patch==1.40.0.post1700587210000
+setuptools==69.0.3
+bip-utils==2.9.0
+loguru==0.7.2
+aiohttp==3.9.2
